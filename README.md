@@ -34,4 +34,3 @@ A voice assistant built using Natural Language Processing (NLP), Machine Learnin
 - **psutil**: For retrieving system information such as CPU usage and battery status.
 - **scikit-learn**: For building the machine learning model to classify user intents.
 - **TensorFlow/Keras**: Used to build and train the deep learning model for intent classification.
-- **Flask** (optional): Web framework for potential future expansion (optional for web integration).
